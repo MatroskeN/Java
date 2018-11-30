@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 	    Person vlad = new Person();
-        System.out.println(vlad.height);
+        System.out.println("Высота Влада - "+vlad.height+" сантиметра");
         //func (3,4);
 	    //readArray();
     }
